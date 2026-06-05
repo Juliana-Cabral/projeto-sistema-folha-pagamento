@@ -65,7 +65,4 @@ Sistema desenvolvido em Java para cadastro de colaboradores e geração de folha
 Juliana Eleriano Cabral 
 Projeto desenvolvido para estudo e aplicação dos conceitos de Programação Orientada a Objetos em Java.
 
-
-Juliana Santos
-
 Projeto desenvolvido para estudo e aplicação dos conceitos de Programação Orientada a Objetos em Java.
