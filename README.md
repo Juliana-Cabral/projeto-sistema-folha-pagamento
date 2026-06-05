@@ -64,6 +64,5 @@ Sistema desenvolvido em Java para cadastro de colaboradores e geração de folha
 ## 👩‍💻 Autora
 Juliana Eleriano Cabral 
 
-Projeto desenvolvido para estudo e aplicação dos conceitos de Programação Orientada a Objetos em Java.
 
 Projeto desenvolvido para estudo e aplicação dos conceitos de Programação Orientada a Objetos em Java.
